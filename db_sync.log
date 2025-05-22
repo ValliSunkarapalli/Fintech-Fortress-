@@ -1,0 +1,154 @@
+2024-11-20 01:17:44,036 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:17:44,036 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:17:48,232 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:17:48,232 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:22:18,746 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:22:18,746 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:23:41,281 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:23:41,282 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:23:46,311 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:23:46,311 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:23:51,339 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:23:51,339 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:23:56,354 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:23:56,355 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:24:01,378 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:24:01,378 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:24:05,685 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:24:05,685 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:24:10,701 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:24:10,702 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:24:15,723 - Error syncing table CUSTOMERS: no such table: CUSTOMERS
+2024-11-20 01:24:15,723 - Synchronization error: no such table: CUSTOMERS
+2024-11-20 01:40:36,799 - Database synchronization completed successfully
+2024-11-20 01:40:41,833 - Database synchronization completed successfully
+2024-11-20 01:40:46,867 - Database synchronization completed successfully
+2024-11-20 01:40:51,889 - Database synchronization completed successfully
+2024-11-20 01:40:56,923 - Database synchronization completed successfully
+2024-11-20 01:41:01,941 - Database synchronization completed successfully
+2024-11-20 01:41:06,971 - Database synchronization completed successfully
+2024-11-20 01:41:12,016 - Database synchronization completed successfully
+2024-11-20 01:41:16,437 - Database synchronization completed successfully
+2024-11-20 01:41:21,471 - Database synchronization completed successfully
+2024-11-20 01:41:26,502 - Database synchronization completed successfully
+2024-11-20 01:41:31,534 - Database synchronization completed successfully
+2024-11-20 01:41:36,572 - Database synchronization completed successfully
+2024-11-20 01:41:41,604 - Database synchronization completed successfully
+2024-11-20 01:41:46,197 - Database synchronization completed successfully
+2024-11-20 01:41:51,229 - Database synchronization completed successfully
+2024-11-20 01:41:56,252 - Database synchronization completed successfully
+2024-11-20 01:42:01,275 - Database synchronization completed successfully
+2024-11-20 01:42:06,310 - Database synchronization completed successfully
+2024-11-20 01:42:11,339 - Database synchronization completed successfully
+2024-11-20 01:42:16,377 - Database synchronization completed successfully
+2024-11-20 01:42:20,982 - Database synchronization completed successfully
+2024-11-20 01:42:26,015 - Database synchronization completed successfully
+2024-11-20 01:42:31,046 - Database synchronization completed successfully
+2024-11-20 01:42:36,066 - Database synchronization completed successfully
+2024-11-20 01:42:41,115 - Database synchronization completed successfully
+2024-11-20 01:42:46,138 - Database synchronization completed successfully
+2024-11-20 01:42:51,164 - Database synchronization completed successfully
+2024-11-20 01:42:56,184 - Database synchronization completed successfully
+2024-11-20 01:43:01,211 - Database synchronization completed successfully
+2024-11-20 01:43:06,223 - Database synchronization completed successfully
+2024-11-20 01:43:11,253 - Database synchronization completed successfully
+2024-11-20 01:43:16,279 - Database synchronization completed successfully
+2024-11-20 01:43:21,318 - Database synchronization completed successfully
+2024-11-20 01:43:26,334 - Database synchronization completed successfully
+2024-11-20 01:43:31,351 - Database synchronization completed successfully
+2024-11-20 01:43:36,371 - Database synchronization completed successfully
+2024-11-20 01:43:41,394 - Database synchronization completed successfully
+2024-11-20 01:43:46,421 - Database synchronization completed successfully
+2024-11-20 01:43:51,446 - Database synchronization completed successfully
+2024-11-20 01:43:56,463 - Database synchronization completed successfully
+2024-11-20 01:44:01,486 - Database synchronization completed successfully
+2024-11-20 01:44:06,507 - Database synchronization completed successfully
+2024-11-20 01:44:11,528 - Database synchronization completed successfully
+2024-11-20 01:44:16,555 - Database synchronization completed successfully
+2024-11-20 01:44:21,578 - Database synchronization completed successfully
+2024-11-20 01:44:26,608 - Database synchronization completed successfully
+2024-11-20 01:44:31,632 - Database synchronization completed successfully
+2024-11-20 01:44:36,659 - Database synchronization completed successfully
+2024-11-20 01:44:41,680 - Database synchronization completed successfully
+2024-11-20 01:44:46,702 - Database synchronization completed successfully
+2024-11-20 01:44:51,733 - Database synchronization completed successfully
+2024-11-20 01:44:56,762 - Database synchronization completed successfully
+2024-11-20 01:45:01,795 - Database synchronization completed successfully
+2024-11-20 01:45:06,825 - Database synchronization completed successfully
+2024-11-20 01:45:11,862 - Database synchronization completed successfully
+2024-11-20 01:45:16,885 - Database synchronization completed successfully
+2024-11-20 01:45:21,907 - Database synchronization completed successfully
+2024-11-20 01:45:26,937 - Database synchronization completed successfully
+2024-11-20 01:45:31,967 - Database synchronization completed successfully
+2024-11-20 01:45:36,998 - Database synchronization completed successfully
+2024-11-20 01:45:42,020 - Database synchronization completed successfully
+2024-11-20 01:45:47,040 - Database synchronization completed successfully
+2024-11-20 01:45:52,055 - Database synchronization completed successfully
+2024-11-20 01:45:57,086 - Database synchronization completed successfully
+2024-11-20 01:46:02,107 - Database synchronization completed successfully
+2024-11-20 01:46:07,122 - Database synchronization completed successfully
+2024-11-20 01:51:59,029 - Database synchronization completed successfully
+2024-11-20 01:52:04,059 - Database synchronization completed successfully
+2024-11-20 01:52:09,083 - Database synchronization completed successfully
+2024-11-20 01:52:14,112 - Database synchronization completed successfully
+2024-11-20 01:52:19,141 - Database synchronization completed successfully
+2024-11-20 01:52:24,160 - Database synchronization completed successfully
+2024-11-20 01:52:29,174 - Database synchronization completed successfully
+2024-11-20 01:52:34,198 - Database synchronization completed successfully
+2024-11-20 01:52:39,223 - Database synchronization completed successfully
+2024-11-20 01:52:44,246 - Database synchronization completed successfully
+2024-11-20 01:52:49,273 - Database synchronization completed successfully
+2024-11-20 01:52:54,295 - Database synchronization completed successfully
+2024-11-20 01:52:59,326 - Database synchronization completed successfully
+2024-11-20 01:53:04,349 - Database synchronization completed successfully
+2024-11-20 01:53:09,380 - Database synchronization completed successfully
+2024-11-20 01:53:14,398 - Database synchronization completed successfully
+2024-11-20 01:53:19,423 - Database synchronization completed successfully
+2024-11-20 01:53:24,443 - Database synchronization completed successfully
+2024-11-20 01:53:29,466 - Database synchronization completed successfully
+2024-11-20 01:53:34,502 - Database synchronization completed successfully
+2024-11-20 01:53:39,529 - Database synchronization completed successfully
+2024-11-20 01:53:44,553 - Database synchronization completed successfully
+2024-11-20 01:53:49,579 - Database synchronization completed successfully
+2024-11-20 01:53:54,600 - Database synchronization completed successfully
+2024-11-20 01:53:59,628 - Database synchronization completed successfully
+2024-11-20 01:54:04,643 - Database synchronization completed successfully
+2024-11-20 01:54:09,666 - Database synchronization completed successfully
+2024-11-20 01:54:14,692 - Database synchronization completed successfully
+2024-11-20 01:54:19,720 - Database synchronization completed successfully
+2024-11-20 01:54:24,749 - Database synchronization completed successfully
+2024-11-20 01:54:29,776 - Database synchronization completed successfully
+2024-11-20 01:54:34,808 - Database synchronization completed successfully
+2024-11-20 01:54:39,826 - Database synchronization completed successfully
+2024-11-20 01:54:44,849 - Database synchronization completed successfully
+2024-11-20 01:54:49,876 - Database synchronization completed successfully
+2024-11-20 01:54:54,903 - Database synchronization completed successfully
+2024-11-20 01:54:59,922 - Database synchronization completed successfully
+2024-11-20 01:55:04,942 - Database synchronization completed successfully
+2024-11-20 01:55:09,965 - Database synchronization completed successfully
+2024-11-20 01:55:14,993 - Database synchronization completed successfully
+2024-11-20 01:55:20,021 - Database synchronization completed successfully
+2024-11-20 01:55:25,047 - Database synchronization completed successfully
+2024-11-20 01:55:30,075 - Database synchronization completed successfully
+2024-11-20 01:55:35,107 - Database synchronization completed successfully
+2024-11-20 01:55:40,137 - Database synchronization completed successfully
+2024-11-20 01:55:45,158 - Database synchronization completed successfully
+2024-11-20 01:55:50,181 - Database synchronization completed successfully
+2024-11-20 01:55:55,209 - Database synchronization completed successfully
+2024-11-20 01:56:00,234 - Database synchronization completed successfully
+2024-11-20 01:56:05,254 - Database synchronization completed successfully
+2024-11-20 01:56:10,275 - Database synchronization completed successfully
+2024-11-20 01:56:15,297 - Database synchronization completed successfully
+2024-11-20 01:56:20,325 - Database synchronization completed successfully
+2024-11-20 01:56:25,343 - Database synchronization completed successfully
+2024-11-20 01:56:30,363 - Database synchronization completed successfully
+2024-11-20 01:56:35,388 - Database synchronization completed successfully
+2024-11-20 01:56:40,416 - Database synchronization completed successfully
+2024-11-20 01:56:45,450 - Database synchronization completed successfully
+2024-11-20 01:56:50,483 - Database synchronization completed successfully
+2024-11-20 01:56:55,505 - Database synchronization completed successfully
+2024-11-20 01:57:00,541 - Database synchronization completed successfully
+2024-11-20 01:57:05,577 - Database synchronization completed successfully
+2024-11-20 01:57:10,606 - Database synchronization completed successfully
+2024-11-20 01:57:15,631 - Database synchronization completed successfully
+2024-11-20 01:57:20,660 - Database synchronization completed successfully
